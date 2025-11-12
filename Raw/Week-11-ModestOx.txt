@@ -1,0 +1,420 @@
+Modest Ox	NFL Week 11	STATS
+Player, Team POS
+	
+opp
+	
+PRK
+	
+avg
+	
+proj
+Josh Allen
+BufQB
+	
+TB
+	
+3
+	
+22.7
+	
+20.7
+De'Von Achane
+MiaRB
+	
+Wsh
+	
+3
+	
+21.4
+	
+27.9
+Rachaad White
+TBRB
+	
+@Buf
+	
+25
+	
+10.6
+	
+14.2
+Wan'Dale Robinson
+NYGWR
+	
+GB
+	
+17
+	
+12.5
+	
+14.5
+Tee Higgins
+CinWR
+	
+@Pit
+	
+24
+	
+13.1
+	
+13.6
+Theo Johnson
+NYGTE
+	
+GB
+	
+12
+	
+9.4
+	
+10.6
+Aaron Jones Sr.
+MinRB
+	
+Chi
+	
+46
+	
+10.1
+	
+14.1
+Steelers D/ST
+PitD/ST
+	
+Cin
+	
+20
+	
+5.4
+	
+6.2
+Matt Prater
+BufK
+	
+TB
+	
+18
+	
+7.4
+	
+8.3
+	
+TOTALS
+	
+112.87
+	
+130.0
+COMPARISON
+ADV
+	
+POS
+	
+ADV
+	QB	
+	RB	
+	RB	
+	WR	
+	WR	
+	TE	
+	FLEX	
+	D/ST	
+	K	
+	TEAM	
+-16.9	LINE	+16.9
+Kevin's Deluxe Team	NFL Week 11	STATS
+Player, Team POS
+	
+opp
+	
+PRK
+	
+avg
+	
+proj
+Lamar Jackson
+BalQBQ
+	
+@Cle
+	
+18
+	
+22.6
+	
+20.4
+Jahmyr Gibbs
+DetRB
+	
+@Phi
+	
+4
+	
+20.4
+	
+17.4
+Quinshon Judkins
+CleRB
+	
+Bal
+	
+21
+	
+13.4
+	
+14.6
+Emeka Egbuka
+TBWR
+	
+@Buf
+	
+10
+	
+16.3
+	
+16.6
+Quentin Johnston
+LACWR
+	
+@Jax
+	
+19
+	
+13.5
+	
+13.3
+David Njoku
+CleTE
+	
+Bal
+	
+20
+	
+9.4
+	
+8.4
+David Montgomery
+DetRB
+	
+@Phi
+	
+22
+	
+11.7
+	
+10.3
+Seahawks D/ST
+SeaD/ST
+	
+@LAR
+	
+1
+	
+11.2
+	
+3.9
+Chase McLaughlin
+TBK
+	
+@Buf
+	
+7
+	
+9.8
+	
+8.2
+	
+TOTALS
+	
+128.35
+	
+113.1
+Hide Bench
+Modest Ox	NFL Week 11	STATS
+Player, Team POS
+	
+opp
+	
+PRK
+	
+avg
+	
+proj
+Marvin Harrison Jr.
+AriWRO
+	
+SF
+	
+27
+	
+12.5
+	
+0.0
+Kenneth Gainwell
+PitRB
+	
+Cin
+	
+34
+	
+8.8
+	
+9.6
+Sam LaPorta
+DetTEQ
+	
+@Phi
+	
+7
+	
+11.9
+	
+11.3
+Jared Goff
+DetQB
+	
+@Phi
+	
+12
+	
+18.0
+	
+16.2
+Oronde Gadsden II
+LACTEQ
+	
+@Jax
+	
+16
+	
+11.5
+	
+0.0
+Woody Marks
+HouRB
+	
+@Ten
+	
+29
+	
+9.7
+	
+14.0
+Devin Singletary
+NYGRB
+	
+GB
+	
+67
+	
+3.2
+	
+9.9
+	
+TOTALS
+	
+75.51
+	
+61.0
+Kevin's Deluxe Team	NFL Week 11	STATS
+Player, Team POS
+	
+opp
+	
+PRK
+	
+avg
+	
+proj
+Xavier Worthy
+KCWR
+	
+@Den
+	
+63
+	
+9.0
+	
+11.4
+DJ Moore
+ChiWRQ
+	
+@Min
+	
+39
+	
+10.0
+	
+10.2
+Justin Herbert
+LACQB
+	
+@Jax
+	
+4
+	
+20.3
+	
+19.6
+Zach Ertz
+WshTE
+	
+@Mia
+	
+10
+	
+9.6
+	
+10.0
+Falcons D/ST
+AtlD/ST
+	
+Car
+	
+10
+	
+7.0
+	
+6.0
+Darius Slayton
+NYGWRQ
+	
+GB
+	
+70
+	
+6.9
+	
+10.8
+Bam Knight
+AriRBQ
+	
+SF
+	
+52
+	
+6.0
+	
+11.2
+	
+TOTALS
+	
+68.73
+	
+79.0
+Injuries
+Modest Ox
+Player
+Marvin Harrison Jr.
+AriWRO
+Kevin's Deluxe Team
+Player
+Omarion Hampton
+LACRBIR
+Bye Week Players
+Modest Ox
+
+No players on bye this week.
+Kevin's Deluxe Team
+
+No players on bye this week.
+
+make this a csv

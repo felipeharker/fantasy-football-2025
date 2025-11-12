@@ -1,0 +1,7391 @@
+Player
+	
+type
+	
+action
+	
+opp
+	
+STATUS
+	
+proj
+	
+SCORE
+	
+OPRK
+	
+%ST
+	
+%ROST
+	
++/-
+	
+PRK
+	
+FPTS
+	
+avg
+	
+LAST
+De'Von AchaneDe'Von Achane
+De'Von Achane
+MiaRB
+	
+MO
+	
+Wsh
+	
+Sun 8:30 AM
+	
+27.9
+	
+--
+	
+15th
+	
+99.1
+	
+99.9
+	
+0
+	
+3
+	
+213.5
+	
+21.4
+	
+40.5
+Christian McCaffreyChristian McCaffrey
+Christian McCaffrey
+SFRB
+	
+WWT
+	
+@Ari
+	
+Sun 3:05 PM
+	
+26.6
+	
+--
+	
+14th
+	
+99.6
+	
+99.9
+	
+0
+	
+2
+	
+248.8
+	
+24.9
+	
+17.6
+Jaxon Smith-NjigbaJaxon Smith-Njigba
+Jaxon Smith-Njigba
+SeaWR
+	
+AAT
+	
+@LAR
+	
+Sun 3:05 PM
+	
+22.9
+	
+--
+	
+19th
+	
+96.0
+	
+99.8
+	
+0
+	
+1
+	
+197.3
+	
+21.9
+	
+20.3
+Josh JacobsJosh Jacobs
+Josh Jacobs
+GBRB
+	
+WWT
+	
+@NYG
+	
+Sun 12:00 PM
+	
+22.5
+	
+--
+	
+31st
+	
+97.2
+	
+99.9
+	
+0
+	
+7
+	
+176.5
+	
+19.6
+	
+19.7
+Drake MayeDrake Maye
+Drake Maye
+NEQB
+	
+TTT
+	
+NYJ
+	
+Thu 7:15 PM
+	
+22.4
+	
+--
+	
+23rd
+	
+72.0
+	
+94.6
+	
++1.1
+	
+1
+	
+207.7
+	
+20.8
+	
+18.1
+Ja'Marr ChaseJa'Marr Chase
+Ja'Marr Chase
+CinWR
+	
+JST
+	
+@Pit
+	
+Sun 12:00 PM
+	
+22.3
+	
+--
+	
+32nd
+	
+68.0
+	
+99.9
+	
+0
+	
+2
+	
+187.7
+	
+20.9
+	
+--
+Jalen HurtsJalen Hurts
+Jalen Hurts
+PhiQB
+	
+IIT
+	
+Det
+	
+Sun 7:20 PM
+	
+21.6
+	
+--
+	
+22nd
+	
+83.1
+	
+99.9
+	
+0
+	
+9
+	
+185.8
+	
+20.6
+	
+12.02
+Josh AllenJosh Allen
+Josh Allen
+BufQB
+	
+MO
+	
+TB
+	
+Sun 12:00 PM
+	
+20.7
+	
+--
+	
+13th
+	
+93.7
+	
+99.9
+	
+0
+	
+3
+	
+204.66
+	
+22.7
+	
+19.34
+Bijan RobinsonBijan Robinson
+Bijan Robinson
+AtlRB
+	
+WWT
+	
+Car
+	
+Sun 12:00 PM
+	
+20.6
+	
+--
+	
+18th
+	
+98.5
+	
+99.9
+	
+0
+	
+5
+	
+179.6
+	
+20.0
+	
+10.8
+Puka NacuaPuka Nacua
+Puka Nacua
+LARWR
+	
+TTT
+	
+Sea
+	
+Sun 3:05 PM
+	
+20.5
+	
+--
+	
+9th
+	
+95.2
+	
+99.9
+	
+0
+	
+4
+	
+179.0
+	
+22.4
+	
+17.4
+Lamar JacksonLamar Jackson
+Lamar JacksonQ
+BalQB
+	
+KDT
+	
+@Cle
+	
+Sun 3:25 PM
+	
+20.4
+	
+--
+	
+7th
+	
+86.5
+	
+99.9
+	
+0
+	
+18
+	
+135.56
+	
+22.6
+	
+16.64
+Amon-Ra St. BrownAmon-Ra St. Brown
+Amon-Ra St. Brown
+DetWR
+	
+KTT
+	
+@Phi
+	
+Sun 7:20 PM
+	
+20.2
+	
+--
+	
+15th
+	
+97.5
+	
+99.9
+	
+0
+	
+3
+	
+182.2
+	
+20.2
+	
+16.8
+Justin HerbertJustin Herbert
+Justin Herbert
+LACQB
+	
+KDT
+	
+@Jax
+	
+Sun 12:00 PM
+	
+19.6
+	
+--
+	
+27th
+	
+70.7
+	
+96.2
+	
++0.1
+	
+4
+	
+202.8
+	
+20.3
+	
+14.7
+Caleb WilliamsCaleb Williams
+Caleb Williams
+ChiQB
+	
+AAT
+	
+@Min
+	
+Sun 12:00 PM
+	
+19.5
+	
+--
+	
+16th
+	
+51.0
+	
+86.3
+	
++1.2
+	
+8
+	
+182.24
+	
+20.2
+	
+25.1
+Justin JeffersonJustin Jefferson
+Justin Jefferson
+MinWR
+	
+AAT
+	
+Chi
+	
+Sun 12:00 PM
+	
+19.5
+	
+--
+	
+30th
+	
+97.4
+	
+99.9
+	
+0
+	
+13
+	
+132.0
+	
+14.7
+	
+7.7
+Rico DowdleRico Dowdle
+Rico DowdleQ
+CarRB
+	
+JST
+	
+@Atl
+	
+Sun 12:00 PM
+	
+19.4
+	
+--
+	
+24th
+	
+89.8
+	
+94.8
+	
++0.8
+	
+10
+	
+147.0
+	
+14.7
+	
+15.3
+CeeDee LambCeeDee Lamb
+CeeDee Lamb
+DalWR
+	
+RRT
+	
+@LV
+	
+Mon 7:15 PM
+	
+19.4
+	
+--
+	
+29th
+	
+64.9
+	
+99.9
+	
+0
+	
+38
+	
+90.3
+	
+15.1
+	
+--
+Jaylen WarrenJaylen Warren
+Jaylen Warren
+PitRB
+	
+KTT
+	
+Cin
+	
+Sun 12:00 PM
+	
+19.0
+	
+--
+	
+32nd
+	
+79.0
+	
+94.4
+	
++0.5
+	
+20
+	
+109.8
+	
+13.7
+	
+11.1
+Trey McBrideTrey McBride
+Trey McBride
+AriTE
+	
+AAT
+	
+SF
+	
+Sun 3:05 PM
+	
+18.9
+	
+--
+	
+9th
+	
+97.0
+	
+99.9
+	
+0
+	
+1
+	
+157.3
+	
+17.5
+	
+27.7
+Aaron RodgersAaron Rodgers
+Aaron Rodgers
+PitQB
+	
+FA
+	
+Cin
+	
+Sun 12:00 PM
+	
+18.9
+	
+--
+	
+31st
+	
+18.2
+	
+39.3
+	
++5.2
+	
+17
+	
+135.92
+	
+15.1
+	
+6.44
+Ashton JeantyAshton Jeanty
+Ashton Jeanty
+LVRB
+	
+IIT
+	
+Dal
+	
+Mon 7:15 PM
+	
+18.8
+	
+--
+	
+30th
+	
+91.0
+	
+99.2
+	
++0.1
+	
+11
+	
+131.3
+	
+14.6
+	
+15.3
+Drake LondonDrake London
+Drake LondonQ
+AtlWR
+	
+JST
+	
+Car
+	
+Sun 12:00 PM
+	
+18.8
+	
+--
+	
+4th
+	
+94.5
+	
+99.6
+	
+0
+	
+6
+	
+158.1
+	
+19.8
+	
+24.4
+James Cook IIIJames Cook III
+James Cook III
+BufRB
+	
+RRT
+	
+TB
+	
+Sun 12:00 PM
+	
+18.5
+	
+--
+	
+26th
+	
+95.4
+	
+99.8
+	
+0
+	
+6
+	
+162.4
+	
+18.0
+	
+10.7
+J.J. McCarthyJ.J. McCarthy
+J.J. McCarthyQ
+MinQB
+	
+WWT
+	
+Chi
+	
+Sun 12:00 PM
+	
+18.4
+	
+--
+	
+26th
+	
+22.1
+	
+49.0
+	
+-0.3
+	
+35
+	
+58.68
+	
+14.7
+	
+14.72
+Marcus MariotaMarcus Mariota
+Marcus Mariota
+WshQB
+	
+FA
+	
+@Mia
+	
+Sun 8:30 AM
+	
+18.2
+	
+--
+	
+25th
+	
+8.3
+	
+13.4
+	
++2
+	
+32
+	
+70.48
+	
+11.7
+	
+18.72
+Matthew StaffordMatthew Stafford
+Matthew Stafford
+LARQB
+	
+TTT
+	
+Sea
+	
+Sun 3:05 PM
+	
+18.1
+	
+--
+	
+15th
+	
+51.2
+	
+84.0
+	
++1.6
+	
+6
+	
+188.18
+	
+20.9
+	
+26.9
+Patrick MahomesPatrick Mahomes
+Patrick Mahomes
+KCQB
+	
+RRT
+	
+@Den
+	
+Sun 3:25 PM
+	
+18.0
+	
+--
+	
+3rd
+	
+49.3
+	
+99.1
+	
+0
+	
+2
+	
+206.46
+	
+22.9
+	
+--
+Jacoby BrissettJacoby Brissett
+Jacoby Brissett
+AriQB
+	
+FA
+	
+SF
+	
+Sun 3:05 PM
+	
+17.9
+	
+--
+	
+20th
+	
+11.1
+	
+20.7
+	
++3.4
+	
+29
+	
+84.92
+	
+14.2
+	
+19.42
+Dak PrescottDak Prescott
+Dak Prescott
+DalQB
+	
+IIT
+	
+@LV
+	
+Mon 7:15 PM
+	
+17.9
+	
+--
+	
+19th
+	
+31.6
+	
+88.8
+	
++0.5
+	
+10
+	
+168.86
+	
+18.8
+	
+--
+Davis MillsDavis Mills
+Davis Mills
+HouQB
+	
+RRT
+	
+@Ten
+	
+Sun 12:00 PM
+	
+17.7
+	
+--
+	
+18th
+	
+0.8
+	
+2.0
+	
+-0.3
+	
+38
+	
+35.08
+	
+11.7
+	
+27.68
+Tua TagovailoaTua Tagovailoa
+Tua Tagovailoa
+MiaQB
+	
+FA
+	
+Wsh
+	
+Sun 8:30 AM
+	
+17.6
+	
+--
+	
+30th
+	
+5.0
+	
+15.3
+	
++1.4
+	
+21
+	
+123.88
+	
+12.4
+	
+10.82
+Jahmyr GibbsJahmyr Gibbs
+Jahmyr Gibbs
+DetRB
+	
+KDT
+	
+@Phi
+	
+Sun 7:20 PM
+	
+17.4
+	
+--
+	
+23rd
+	
+97.5
+	
+99.9
+	
+0
+	
+4
+	
+184.0
+	
+20.4
+	
+38.2
+Baker MayfieldBaker Mayfield
+Baker Mayfield
+TBQB
+	
+WWT
+	
+@Buf
+	
+Sun 12:00 PM
+	
+17.4
+	
+--
+	
+2nd
+	
+49.3
+	
+94.3
+	
++0.1
+	
+11
+	
+163.48
+	
+18.2
+	
+22.92
+Bo NixBo Nix
+Bo Nix
+DenQB
+	
+AAT
+	
+KC
+	
+Sun 3:25 PM
+	
+17.3
+	
+--
+	
+12th
+	
+52.6
+	
+90.5
+	
+-1.4
+	
+7
+	
+185.54
+	
+18.6
+	
+5.8
+Brock BowersBrock Bowers
+Brock Bowers
+LVTE
+	
+WWT
+	
+Dal
+	
+Mon 7:15 PM
+	
+17.2
+	
+--
+	
+17th
+	
+90.6
+	
+98.9
+	
++0.2
+	
+17
+	
+90.5
+	
+15.1
+	
+3.7
+Jordan LoveJordan Love
+Jordan Love
+GBQB
+	
+FA
+	
+@NYG
+	
+Sun 12:00 PM
+	
+17.0
+	
+--
+	
+29th
+	
+30.8
+	
+76.7
+	
+-1.5
+	
+16
+	
+147.68
+	
+16.4
+	
+7.84
+Jaylen WaddleJaylen Waddle
+Jaylen Waddle
+MiaWR
+	
+JST
+	
+Wsh
+	
+Sun 8:30 AM
+	
+16.8
+	
+--
+	
+27th
+	
+75.7
+	
+94.5
+	
++0.6
+	
+11
+	
+143.32
+	
+14.3
+	
+19.4
+Joe FlaccoJoe Flacco
+Joe FlaccoQ
+CinQB
+	
+FA
+	
+@Pit
+	
+Sun 12:00 PM
+	
+16.7
+	
+--
+	
+28th
+	
+14.7
+	
+38.3
+	
++5.2
+	
+20
+	
+125.66
+	
+15.7
+	
+--
+Geno SmithGeno Smith
+Geno SmithQ
+LVQB
+	
+FA
+	
+Dal
+	
+Mon 7:15 PM
+	
+16.6
+	
+--
+	
+32nd
+	
+1.8
+	
+6.1
+	
+-0.1
+	
+26
+	
+104.56
+	
+11.6
+	
+4.42
+Mac JonesMac Jones
+Mac Jones
+SFQB
+	
+FA
+	
+@Ari
+	
+Sun 3:05 PM
+	
+16.6
+	
+--
+	
+8th
+	
+3.8
+	
+7.7
+	
++1.7
+	
+19
+	
+130.44
+	
+16.3
+	
+23.06
+Emeka EgbukaEmeka Egbuka
+Emeka Egbuka
+TBWR
+	
+KDT
+	
+@Buf
+	
+Sun 12:00 PM
+	
+16.6
+	
+--
+	
+11th
+	
+81.6
+	
+97.9
+	
++0.2
+	
+10
+	
+146.6
+	
+16.3
+	
+23.5
+Rashee RiceRashee Rice
+Rashee Rice
+KCWR
+	
+AAT
+	
+@Den
+	
+Sun 3:25 PM
+	
+16.4
+	
+--
+	
+3rd
+	
+53.8
+	
+97.9
+	
++0.1
+	
+55
+	
+67.3
+	
+22.4
+	
+--
+Nico CollinsNico Collins
+Nico Collins
+HouWR
+	
+RRT
+	
+@Ten
+	
+Sun 12:00 PM
+	
+16.3
+	
+--
+	
+23rd
+	
+90.9
+	
+99.4
+	
++0.1
+	
+26
+	
+113.8
+	
+14.2
+	
+22.6
+Justin FieldsJustin Fields
+Justin Fields
+NYJQB
+	
+FA
+	
+@NE
+	
+Thu 7:15 PM
+	
+16.3
+	
+--
+	
+11th
+	
+9.4
+	
+40.7
+	
+-2.6
+	
+22
+	
+123.32
+	
+15.4
+	
+6.96
+Jared GoffJared Goff
+Jared Goff
+DetQB
+	
+MO
+	
+@Phi
+	
+Sun 7:20 PM
+	
+16.2
+	
+--
+	
+17th
+	
+35.5
+	
+78.8
+	
+-0.5
+	
+12
+	
+161.7
+	
+18.0
+	
+24.8
+Javonte WilliamsJavonte Williams
+Javonte Williams
+DalRB
+	
+TTT
+	
+@LV
+	
+Mon 7:15 PM
+	
+16.1
+	
+--
+	
+21st
+	
+52.4
+	
+97.7
+	
++0.1
+	
+8
+	
+155.9
+	
+17.3
+	
+--
+Ladd McConkeyLadd McConkey
+Ladd McConkey
+LACWR
+	
+TTT
+	
+@Jax
+	
+Sun 12:00 PM
+	
+16.0
+	
+--
+	
+21st
+	
+90.3
+	
+98.3
+	
++0.1
+	
+12
+	
+138.1
+	
+13.8
+	
+20.7
+Davante AdamsDavante Adams
+Davante AdamsQ
+LARWR
+	
+WWT
+	
+Sea
+	
+Sun 3:05 PM
+	
+15.7
+	
+--
+	
+9th
+	
+87.6
+	
+99.5
+	
+0
+	
+7
+	
+152.8
+	
+17.0
+	
+19.7
+A.J. BrownA.J. Brown
+A.J. Brown
+PhiWR
+	
+WWT
+	
+Det
+	
+Sun 7:20 PM
+	
+15.7
+	
+--
+	
+24th
+	
+79.4
+	
+98.6
+	
+-0.1
+	
+40
+	
+89.8
+	
+11.2
+	
+3.3
+Michael Penix Jr.Michael Penix Jr.
+Michael Penix Jr.
+AtlQB
+	
+FA
+	
+Car
+	
+Sun 12:00 PM
+	
+15.7
+	
+--
+	
+9th
+	
+5.3
+	
+15.6
+	
+-1.3
+	
+24
+	
+112.38
+	
+14.0
+	
+10.98
+
+Player
+	
+type
+	
+action
+	
+opp
+	
+STATUS
+	
+proj
+	
+SCORE
+	
+OPRK
+	
+%ST
+	
+%ROST
+	
++/-
+	
+PRK
+	
+FPTS
+	
+avg
+	
+LAST
+Saquon BarkleySaquon Barkley
+Saquon Barkley
+PhiRB
+	
+IIT
+	
+Det
+	
+Sun 7:20 PM
+	
+15.5
+	
+--
+	
+3rd
+	
+91.7
+	
+99.9
+	
+0
+	
+13
+	
+140.9
+	
+15.7
+	
+13.1
+Trevor LawrenceTrevor Lawrence
+Trevor Lawrence
+JaxQB
+	
+FA
+	
+LAC
+	
+Sun 12:00 PM
+	
+15.3
+	
+--
+	
+4th
+	
+6.8
+	
+25.6
+	
+-0.9
+	
+14
+	
+143.12
+	
+15.9
+	
+9.82
+DeVonta SmithDeVonta Smith
+DeVonta Smith
+PhiWR
+	
+KTT
+	
+Det
+	
+Sun 7:20 PM
+	
+15.3
+	
+--
+	
+24th
+	
+69.1
+	
+95.1
+	
++0.2
+	
+25
+	
+131.7
+	
+14.6
+	
+16.9
+Sam DarnoldSam Darnold
+Sam Darnold
+SeaQB
+	
+KTT
+	
+@LAR
+	
+Sun 3:05 PM
+	
+15.0
+	
+--
+	
+5th
+	
+19.3
+	
+50.6
+	
+-3.6
+	
+15
+	
+142.38
+	
+15.8
+	
+4.92
+George PickensGeorge Pickens
+George Pickens
+DalWR
+	
+IIT
+	
+@LV
+	
+Mon 7:15 PM
+	
+14.7
+	
+--
+	
+29th
+	
+50.1
+	
+97.6
+	
++0.1
+	
+5
+	
+161.4
+	
+17.9
+	
+--
+D'Andre SwiftD'Andre Swift
+D'Andre SwiftQ
+ChiRB
+	
+WWT
+	
+@Min
+	
+Sun 12:00 PM
+	
+14.7
+	
+--
+	
+11th
+	
+69.2
+	
+94.8
+	
++0.2
+	
+15
+	
+126.4
+	
+15.8
+	
+14.8
+Rome OdunzeRome Odunze
+Rome OdunzeQ
+ChiWR
+	
+TTT
+	
+@Min
+	
+Sun 12:00 PM
+	
+14.6
+	
+--
+	
+8th
+	
+63.9
+	
+94.3
+	
++0.3
+	
+15
+	
+128.9
+	
+14.3
+	
+20.6
+Quinshon JudkinsQuinshon Judkins
+Quinshon Judkins
+CleRB
+	
+KDT
+	
+Bal
+	
+Sun 3:25 PM
+	
+14.6
+	
+--
+	
+29th
+	
+70.2
+	
+92.0
+	
++0.2
+	
+21
+	
+107.1
+	
+13.4
+	
+10.5
+Travis Etienne Jr.Travis Etienne Jr.
+Travis Etienne Jr.
+JaxRB
+	
+JST
+	
+LAC
+	
+Sun 12:00 PM
+	
+14.5
+	
+--
+	
+16th
+	
+60.3
+	
+89.7
+	
++0.5
+	
+16
+	
+123.6
+	
+13.7
+	
+15.7
+Wan'Dale RobinsonWan'Dale Robinson
+Wan'Dale Robinson
+NYGWR
+	
+MO
+	
+GB
+	
+Sun 12:00 PM
+	
+14.5
+	
+--
+	
+16th
+	
+56.0
+	
+84.8
+	
+-0.1
+	
+17
+	
+125.4
+	
+12.5
+	
+12.2
+Derrick HenryDerrick Henry
+Derrick Henry
+BalRB
+	
+TTT
+	
+@Cle
+	
+Sun 3:25 PM
+	
+14.3
+	
+--
+	
+2nd
+	
+90.8
+	
+99.5
+	
+0
+	
+17
+	
+116.9
+	
+13.0
+	
+11.4
+Rachaad WhiteRachaad White
+Rachaad White
+TBRB
+	
+MO
+	
+@Buf
+	
+Sun 12:00 PM
+	
+14.2
+	
+--
+	
+25th
+	
+52.2
+	
+89.5
+	
++0.4
+	
+25
+	
+95.8
+	
+10.6
+	
+10.4
+Aaron Jones Sr.Aaron Jones Sr.
+Aaron Jones Sr.Q
+MinRB
+	
+MO
+	
+Chi
+	
+Sun 12:00 PM
+	
+14.1
+	
+--
+	
+20th
+	
+42.3
+	
+83.6
+	
++3.6
+	
+46
+	
+50.7
+	
+10.1
+	
+15.9
+TreVeyon HendersonTreVeyon Henderson
+TreVeyon Henderson
+NERB
+	
+RRT
+	
+NYJ
+	
+Thu 7:15 PM
+	
+14.0
+	
+--
+	
+22nd
+	
+53.6
+	
+87.9
+	
++3
+	
+26
+	
+93.4
+	
+9.3
+	
+28.0
+Kyren WilliamsKyren Williams
+Kyren Williams
+LARRB
+	
+TTT
+	
+Sea
+	
+Sun 3:05 PM
+	
+13.9
+	
+--
+	
+13th
+	
+89.1
+	
+99.2
+	
+0
+	
+9
+	
+149.6
+	
+16.6
+	
+22.4
+Stefon DiggsStefon Diggs
+Stefon Diggs
+NEWR
+	
+IIT
+	
+NYJ
+	
+Thu 7:15 PM
+	
+13.9
+	
+--
+	
+10th
+	
+57.8
+	
+90.3
+	
++0.5
+	
+18
+	
+123.4
+	
+12.3
+	
+15.6
+Deebo SamuelDeebo Samuel
+Deebo Samuel
+WshWR
+	
+RRT
+	
+@Mia
+	
+Sun 8:30 AM
+	
+13.9
+	
+--
+	
+1st
+	
+55.6
+	
+91.5
+	
+-0.1
+	
+20
+	
+120.5
+	
+13.4
+	
+12.9
+Woody MarksWoody Marks
+Woody Marks
+HouRB
+	
+MO
+	
+@Ten
+	
+Sun 12:00 PM
+	
+13.9
+	
+--
+	
+28th
+	
+40.6
+	
+71.5
+	
++9.4
+	
+29
+	
+87.7
+	
+9.7
+	
+16.1
+Breece HallBreece Hall
+Breece Hall
+NYJRB
+	
+AAT
+	
+@NE
+	
+Thu 7:15 PM
+	
+13.8
+	
+--
+	
+4th
+	
+71.4
+	
+96.6
+	
++0.1
+	
+12
+	
+130.56
+	
+14.5
+	
+19.5
+Jameis WinstonJameis Winston
+Jameis Winston
+NYGQB
+	
+FA
+	
+GB
+	
+Sun 12:00 PM
+	
+13.7
+	
+--
+	
+10th
+	
+0.7
+	
+1.6
+	
++1.4
+	
+--
+	
+--
+	
+--
+	
+--
+George KittleGeorge Kittle
+George Kittle
+SFTE
+	
+KTT
+	
+@Ari
+	
+Sun 3:05 PM
+	
+13.6
+	
+--
+	
+24th
+	
+86.0
+	
+98.5
+	
++0.3
+	
+29
+	
+57.1
+	
+11.4
+	
+23.4
+Tee HigginsTee Higgins
+Tee Higgins
+CinWR
+	
+MO
+	
+@Pit
+	
+Sun 12:00 PM
+	
+13.6
+	
+--
+	
+32nd
+	
+48.6
+	
+96.4
+	
++0.3
+	
+24
+	
+118.1
+	
+13.1
+	
+--
+Dillon GabrielDillon Gabriel
+Dillon Gabriel
+CleQB
+	
+FA
+	
+Bal
+	
+Sun 3:25 PM
+	
+13.5
+	
+--
+	
+24th
+	
+0.6
+	
+1.9
+	
++0.1
+	
+34
+	
+67.16
+	
+9.6
+	
+20.08
+Tetairoa McMillanTetairoa McMillan
+Tetairoa McMillan
+CarWR
+	
+WWT
+	
+@Atl
+	
+Sun 12:00 PM
+	
+13.5
+	
+--
+	
+7th
+	
+50.3
+	
+91.9
+	
+0
+	
+21
+	
+119.8
+	
+12.0
+	
+11.0
+Zay FlowersZay Flowers
+Zay Flowers
+BalWR
+	
+IIT
+	
+@Cle
+	
+Sun 3:25 PM
+	
+13.4
+	
+--
+	
+20th
+	
+75.1
+	
+96.6
+	
+-0.1
+	
+23
+	
+119.1
+	
+13.2
+	
+12.1
+Jauan JenningsJauan Jennings
+Jauan Jennings
+SFWR
+	
+WWT
+	
+@Ari
+	
+Sun 3:05 PM
+	
+13.4
+	
+--
+	
+18th
+	
+37.7
+	
+78.4
+	
++2
+	
+47
+	
+78.4
+	
+9.8
+	
+17.1
+Quentin JohnstonQuentin Johnston
+Quentin Johnston
+LACWR
+	
+KDT
+	
+@Jax
+	
+Sun 12:00 PM
+	
+13.3
+	
+--
+	
+21st
+	
+46.5
+	
+89.5
+	
+0
+	
+19
+	
+121.9
+	
+13.5
+	
+9.2
+Chase BrownChase Brown
+Chase Brown
+CinRB
+	
+JST
+	
+@Pit
+	
+Sun 12:00 PM
+	
+13.2
+	
+--
+	
+8th
+	
+47.7
+	
+95.6
+	
++0.1
+	
+19
+	
+115.1
+	
+12.8
+	
+--
+Tyrone Tracy Jr.Tyrone Tracy Jr.
+Tyrone Tracy Jr.
+NYGRB
+	
+WWT
+	
+GB
+	
+Sun 12:00 PM
+	
+12.9
+	
+--
+	
+6th
+	
+32.4
+	
+80.6
+	
+-2.7
+	
+45
+	
+53.5
+	
+6.7
+	
+8.1
+Courtland SuttonCourtland Sutton
+Courtland Sutton
+DenWR
+	
+JST
+	
+KC
+	
+Sun 3:25 PM
+	
+12.9
+	
+--
+	
+5th
+	
+57.0
+	
+93.6
+	
+-0.4
+	
+16
+	
+126.0
+	
+12.6
+	
+5.4
+Khalil ShakirKhalil Shakir
+Khalil ShakirQ
+BufWR
+	
+JST
+	
+TB
+	
+Sun 12:00 PM
+	
+12.9
+	
+--
+	
+14th
+	
+37.1
+	
+81.4
+	
++0.2
+	
+29
+	
+109.2
+	
+12.1
+	
+12.8
+Keenan AllenKeenan Allen
+Keenan Allen
+LACWR
+	
+AAT
+	
+@Jax
+	
+Sun 12:00 PM
+	
+12.9
+	
+--
+	
+21st
+	
+48.6
+	
+89.9
+	
+-0.7
+	
+14
+	
+129.9
+	
+13.0
+	
+3.9
+Kimani VidalKimani Vidal
+Kimani Vidal
+LACRB
+	
+WWT
+	
+@Jax
+	
+Sun 12:00 PM
+	
+12.8
+	
+--
+	
+10th
+	
+47.1
+	
+83.9
+	
++0.5
+	
+38
+	
+73.7
+	
+10.5
+	
+17.8
+Jordan AddisonJordan Addison
+Jordan Addison
+MinWR
+	
+WWT
+	
+Chi
+	
+Sun 12:00 PM
+	
+12.8
+	
+--
+	
+30th
+	
+41.8
+	
+86.4
+	
+-0.3
+	
+46
+	
+78.8
+	
+13.1
+	
+6.5
+Troy FranklinTroy Franklin
+Troy Franklin
+DenWR
+	
+TTT
+	
+KC
+	
+Sun 3:25 PM
+	
+12.6
+	
+--
+	
+5th
+	
+32.3
+	
+64.6
+	
++4.4
+	
+22
+	
+119.4
+	
+11.9
+	
+15.0
+DK MetcalfDK Metcalf
+DK Metcalf
+PitWR
+	
+RRT
+	
+Cin
+	
+Sun 12:00 PM
+	
+12.5
+	
+--
+	
+13th
+	
+68.4
+	
+97.3
+	
+-0.2
+	
+28
+	
+112.2
+	
+12.5
+	
+6.5
+RJ HarveyRJ Harvey
+RJ Harvey
+DenRB
+	
+AAT
+	
+KC
+	
+Sun 3:25 PM
+	
+12.3
+	
+--
+	
+7th
+	
+25.5
+	
+74.8
+	
++3.1
+	
+23
+	
+99.9
+	
+10.0
+	
+3.8
+Romeo DoubsRomeo Doubs
+Romeo Doubs
+GBWR
+	
+TTT
+	
+@NYG
+	
+Sun 12:00 PM
+	
+12.1
+	
+--
+	
+26th
+	
+31.2
+	
+74.9
+	
+-2.7
+	
+32
+	
+105.6
+	
+11.7
+	
+1.5
+Jameson WilliamsJameson Williams
+Jameson Williams
+DetWR
+	
+RRT
+	
+@Phi
+	
+Sun 7:20 PM
+	
+11.9
+	
+--
+	
+15th
+	
+40.3
+	
+87.0
+	
++1.2
+	
+34
+	
+98.5
+	
+10.9
+	
+23.9
+Brian Thomas Jr.Brian Thomas Jr.
+Brian Thomas Jr.Q
+JaxWR
+	
+AAT
+	
+LAC
+	
+Sun 12:00 PM
+	
+11.9
+	
+--
+	
+6th
+	
+28.8
+	
+92.5
+	
+-0.3
+	
+41
+	
+85.6
+	
+10.7
+	
+--
+Bryce YoungBryce Young
+Bryce Young
+CarQB
+	
+FA
+	
+@Atl
+	
+Sun 12:00 PM
+	
+11.6
+	
+--
+	
+6th
+	
+2.1
+	
+8.2
+	
+-0.6
+	
+28
+	
+96.96
+	
+10.8
+	
+1.56
+Calvin Austin IIICalvin Austin III
+Calvin Austin III
+PitWR
+	
+FA
+	
+Cin
+	
+Sun 12:00 PM
+	
+11.5
+	
+--
+	
+13th
+	
+6.9
+	
+16.6
+	
++3
+	
+69
+	
+56.7
+	
+8.1
+	
+3.4
+Xavier WorthyXavier Worthy
+Xavier Worthy
+KCWR
+	
+KDT
+	
+@Den
+	
+Sun 3:25 PM
+	
+11.4
+	
+--
+	
+3rd
+	
+22.8
+	
+90.3
+	
+-0.3
+	
+63
+	
+62.9
+	
+9.0
+	
+--
+Sam LaPortaSam LaPorta
+Sam LaPortaQ
+DetTE
+	
+MO
+	
+@Phi
+	
+Sun 7:20 PM
+	
+11.3
+	
+--
+	
+3rd
+	
+88.7
+	
+98.5
+	
++0.1
+	
+7
+	
+106.9
+	
+11.9
+	
+10.3
+Bam KnightBam Knight
+Bam KnightQ
+AriRB
+	
+KDT
+	
+SF
+	
+Sun 3:05 PM
+	
+11.2
+	
+--
+	
+17th
+	
+12.3
+	
+40.2
+	
+-3.3
+	
+52
+	
+42.2
+	
+6.0
+	
+4.3
+Dallas GoedertDallas Goedert
+Dallas Goedert
+PhiTE
+	
+KTT
+	
+Det
+	
+Sun 7:20 PM
+	
+11.1
+	
+--
+	
+12th
+	
+54.9
+	
+91.2
+	
++0.7
+	
+8
+	
+109.2
+	
+13.7
+	
+8.3
+Tre TuckerTre Tucker
+Tre Tucker
+LVWR
+	
+KTT
+	
+Dal
+	
+Mon 7:15 PM
+	
+11.0
+	
+--
+	
+31st
+	
+12.1
+	
+43.3
+	
+-0.2
+	
+31
+	
+107.1
+	
+11.9
+	
+5.5
+Kareem HuntKareem Hunt
+Kareem Hunt
+KCRB
+	
+AAT
+	
+@Den
+	
+Sun 3:25 PM
+	
+10.9
+	
+--
+	
+5th
+	
+12.0
+	
+51.0
+	
++3.4
+	
+32
+	
+80.7
+	
+9.0
+	
+--
+Jerry JeudyJerry Jeudy
+Jerry Jeudy
+CleWR
+	
+AAT
+	
+Bal
+	
+Sun 3:25 PM
+	
+10.8
+	
+--
+	
+28th
+	
+17.6
+	
+65.5
+	
++5.1
+	
+54
+	
+67.5
+	
+7.5
+	
+19.8
+Jake FergusonJake Ferguson
+Jake Ferguson
+DalTE
+	
+TTT
+	
+@LV
+	
+Mon 7:15 PM
+	
+10.8
+	
+--
+	
+5th
+	
+42.3
+	
+97.8
+	
++0.1
+	
+3
+	
+128.4
+	
+14.3
+	
+Player
+	
+type
+	
+action
+	
+opp
+	
+STATUS
+	
+proj
+	
+SCORE
+	
+OPRK
+	
+%ST
+	
+%ROST
+	
++/-
+	
+PRK
+	
+FPTS
+	
+avg
+	
+LAST
+Darius SlaytonDarius Slayton
+Darius SlaytonQ
+NYGWR
+	
+KDT
+	
+GB
+	
+Sun 12:00 PM
+	
+10.8
+	
+--
+	
+16th
+	
+14.0
+	
+33.1
+	
+-0.6
+	
+70
+	
+55.3
+	
+6.9
+	
+12.9
+Kenneth Walker IIIKenneth Walker III
+Kenneth Walker III
+SeaRB
+	
+KTT
+	
+@LAR
+	
+Sun 3:05 PM
+	
+10.7
+	
+--
+	
+1st
+	
+50.5
+	
+92.4
+	
+-0.6
+	
+27
+	
+91.2
+	
+10.1
+	
+8.0
+Michael WilsonMichael Wilson
+Michael Wilson
+AriWR
+	
+FA
+	
+SF
+	
+Sun 3:05 PM
+	
+10.6
+	
+--
+	
+22nd
+	
+1.9
+	
+6.0
+	
++3
+	
+76
+	
+51.1
+	
+5.7
+	
+7.4
+Theo JohnsonTheo Johnson
+Theo Johnson
+NYGTE
+	
+MO
+	
+GB
+	
+Sun 12:00 PM
+	
+10.6
+	
+--
+	
+26th
+	
+32.7
+	
+49.4
+	
++4.9
+	
+12
+	
+94.4
+	
+9.4
+	
+14.5
+Malik WashingtonMalik Washington
+Malik Washington
+MiaWR
+	
+FA
+	
+Wsh
+	
+Sun 8:30 AM
+	
+10.6
+	
+--
+	
+27th
+	
+6.8
+	
+16.8
+	
++1.2
+	
+49
+	
+73.0
+	
+7.3
+	
+9.3
+Greg DortchGreg Dortch
+Greg Dortch
+AriWR
+	
+FA
+	
+SF
+	
+Sun 3:05 PM
+	
+10.5
+	
+--
+	
+22nd
+	
+0.5
+	
+0.9
+	
++0.5
+	
+92
+	
+36.3
+	
+4.0
+	
+6.2
+Kyle Pitts Sr.Kyle Pitts Sr.
+Kyle Pitts Sr.
+AtlTE
+	
+JST
+	
+Car
+	
+Sun 12:00 PM
+	
+10.3
+	
+--
+	
+20th
+	
+46.6
+	
+78.5
+	
+-0.7
+	
+14
+	
+93.0
+	
+10.3
+	
+5.8
+David MontgomeryDavid Montgomery
+David Montgomery
+DetRB
+	
+KDT
+	
+@Phi
+	
+Sun 7:20 PM
+	
+10.3
+	
+--
+	
+23rd
+	
+57.9
+	
+92.9
+	
+-0.2
+	
+22
+	
+105.32
+	
+11.7
+	
+10.1
+Mack HollinsMack Hollins
+Mack Hollins
+NEWR
+	
+FA
+	
+NYJ
+	
+Thu 7:15 PM
+	
+10.3
+	
+--
+	
+10th
+	
+0.3
+	
+1.2
+	
++0.7
+	
+50
+	
+70.7
+	
+7.1
+	
+16.6
+Sean TuckerSean Tucker
+Sean Tucker
+TBRB
+	
+FA
+	
+@Buf
+	
+Sun 12:00 PM
+	
+10.2
+	
+--
+	
+25th
+	
+6.6
+	
+17.3
+	
++13.7
+	
+68
+	
+29.5
+	
+3.3
+	
+6.1
+Dalton SchultzDalton Schultz
+Dalton SchultzQ
+HouTE
+	
+RRT
+	
+@Ten
+	
+Sun 12:00 PM
+	
+10.2
+	
+--
+	
+10th
+	
+27.9
+	
+45.4
+	
++18.4
+	
+11
+	
+94.8
+	
+10.5
+	
+18.3
+DJ MooreDJ Moore
+DJ MooreQ
+ChiWR
+	
+KDT
+	
+@Min
+	
+Sun 12:00 PM
+	
+10.2
+	
+--
+	
+8th
+	
+32.9
+	
+85.3
+	
+-1.2
+	
+39
+	
+89.78
+	
+10.0
+	
+0.0
+Travis KelceTravis Kelce
+Travis Kelce
+KCTE
+	
+KTT
+	
+@Den
+	
+Sun 3:25 PM
+	
+10.0
+	
+--
+	
+8th
+	
+47.5
+	
+96.3
+	
++0.3
+	
+5
+	
+115.0
+	
+12.8
+	
+--
+Hunter HenryHunter Henry
+Hunter Henry
+NETE
+	
+FA
+	
+NYJ
+	
+Thu 7:15 PM
+	
+10.0
+	
+--
+	
+18th
+	
+40.7
+	
+71.1
+	
+-1.2
+	
+15
+	
+91.7
+	
+9.2
+	
+1.9
+Zach ErtzZach Ertz
+Zach Ertz
+WshTE
+	
+KDT
+	
+@Mia
+	
+Sun 8:30 AM
+	
+10.0
+	
+--
+	
+28th
+	
+30.6
+	
+61.3
+	
++1.7
+	
+10
+	
+95.5
+	
+9.6
+	
+9.4
+Cam WardCam Ward
+Cam Ward
+TenQB
+	
+FA
+	
+Hou
+	
+Sun 12:00 PM
+	
+9.9
+	
+--
+	
+1st
+	
+0.6
+	
+5.7
+	
+-0.1
+	
+31
+	
+73.0
+	
+8.1
+	
+--
+Devin SingletaryDevin Singletary
+Devin Singletary
+NYGRB
+	
+MO
+	
+GB
+	
+Sun 12:00 PM
+	
+9.9
+	
+--
+	
+6th
+	
+12.7
+	
+33.6
+	
+-3.3
+	
+67
+	
+31.6
+	
+3.2
+	
+10.3
+Emari DemercadoEmari Demercado
+Emari Demercado
+AriRB
+	
+FA
+	
+SF
+	
+Sun 3:05 PM
+	
+9.8
+	
+--
+	
+17th
+	
+8.2
+	
+22.6
+	
++4.1
+	
+55
+	
+38.5
+	
+4.8
+	
+13.4
+Cade OttonCade Otton
+Cade Otton
+TBTE
+	
+FA
+	
+@Buf
+	
+Sun 12:00 PM
+	
+9.7
+	
+--
+	
+2nd
+	
+18.7
+	
+41.9
+	
++7.2
+	
+22
+	
+70.3
+	
+7.8
+	
+17.2
+Kenneth GainwellKenneth Gainwell
+Kenneth Gainwell
+PitRB
+	
+MO
+	
+Cin
+	
+Sun 12:00 PM
+	
+9.6
+	
+--
+	
+32nd
+	
+12.3
+	
+43.5
+	
+-1.7
+	
+34
+	
+79.3
+	
+8.8
+	
+2.4
+Keon ColemanKeon Coleman
+Keon Coleman
+BufWR
+	
+WWT
+	
+TB
+	
+Sun 12:00 PM
+	
+9.6
+	
+--
+	
+14th
+	
+12.3
+	
+59.1
+	
++0.2
+	
+44
+	
+81.0
+	
+9.0
+	
+13.6
+Rashid ShaheedRashid Shaheed
+Rashid Shaheed
+SeaWR
+	
+WWT
+	
+@LAR
+	
+Sun 3:05 PM
+	
+9.5
+	
+--
+	
+19th
+	
+18.7
+	
+72.4
+	
+-1.6
+	
+30
+	
+107.7
+	
+10.8
+	
+3.3
+Parker WashingtonParker Washington
+Parker Washington
+JaxWR
+	
+FA
+	
+LAC
+	
+Sun 12:00 PM
+	
+9.4
+	
+--
+	
+6th
+	
+8.7
+	
+25.5
+	
++8.5
+	
+42
+	
+85.5
+	
+9.5
+	
+17.9
+Terrell JenningsTerrell Jennings
+Terrell JenningsQ
+NERB
+	
+FA
+	
+NYJ
+	
+Thu 7:15 PM
+	
+9.3
+	
+--
+	
+22nd
+	
+2.7
+	
+7.7
+	
+-2.3
+	
+78
+	
+15.2
+	
+3.0
+	
+0.5
+Tony PollardTony Pollard
+Tony Pollard
+TenRB
+	
+FA
+	
+Hou
+	
+Sun 12:00 PM
+	
+9.3
+	
+--
+	
+12th
+	
+14.8
+	
+74.8
+	
+-0.7
+	
+28
+	
+89.3
+	
+9.9
+	
+--
+Darnell MooneyDarnell Mooney
+Darnell Mooney
+AtlWR
+	
+FA
+	
+Car
+	
+Sun 12:00 PM
+	
+9.3
+	
+--
+	
+4th
+	
+5.0
+	
+38.0
+	
+-0.9
+	
+101
+	
+32.0
+	
+4.6
+	
+2.7
+Mark AndrewsMark Andrews
+Mark Andrews
+BalTE
+	
+WWT
+	
+@Cle
+	
+Sun 3:25 PM
+	
+9.3
+	
+--
+	
+14th
+	
+49.8
+	
+82.1
+	
++0.3
+	
+18
+	
+84.2
+	
+9.4
+	
+10.4
+Tez JohnsonTez Johnson
+Tez Johnson
+TBWR
+	
+FA
+	
+@Buf
+	
+Sun 12:00 PM
+	
+9.2
+	
+--
+	
+11th
+	
+10.3
+	
+34.0
+	
++6.2
+	
+52
+	
+69.0
+	
+8.6
+	
+20.2
+Harold Fannin Jr.Harold Fannin Jr.
+Harold Fannin Jr.Q
+CleTE
+	
+WWT
+	
+Bal
+	
+Sun 3:25 PM
+	
+9.2
+	
+--
+	
+16th
+	
+21.8
+	
+53.6
+	
+-1
+	
+13
+	
+94.2
+	
+10.5
+	
+8.4
+Christian WatsonChristian Watson
+Christian Watson
+GBWR
+	
+FA
+	
+@NYG
+	
+Sun 12:00 PM
+	
+9.1
+	
+--
+	
+26th
+	
+6.9
+	
+26.8
+	
+-1.1
+	
+120
+	
+26.8
+	
+8.9
+	
+6.5
+Tyjae SpearsTyjae Spears
+Tyjae Spears
+TenRB
+	
+FA
+	
+Hou
+	
+Sun 12:00 PM
+	
+9.0
+	
+--
+	
+12th
+	
+3.8
+	
+37.3
+	
+-0.2
+	
+50
+	
+43.8
+	
+8.8
+	
+--
+Chris BoswellChris Boswell
+Chris Boswell
+PitK
+	
+WWT
+	
+Cin
+	
+Sun 12:00 PM
+	
+9.0
+	
+--
+	
+19th
+	
+87.3
+	
+92.0
+	
++0.8
+	
+4
+	
+92.0
+	
+10.2
+	
+5.0
+Kyle MonangaiKyle Monangai
+Kyle Monangai
+ChiRB
+	
+FA
+	
+@Min
+	
+Sun 12:00 PM
+	
+8.9
+	
+--
+	
+11th
+	
+22.9
+	
+68.9
+	
+-5.3
+	
+42
+	
+68.3
+	
+7.6
+	
+8.8
+Brandon AubreyBrandon Aubrey
+Brandon Aubrey
+DalK
+	
+KTT
+	
+@LV
+	
+Mon 7:15 PM
+	
+8.9
+	
+--
+	
+28th
+	
+67.4
+	
+96.0
+	
++3.1
+	
+2
+	
+94.0
+	
+10.4
+	
+--
+Andy BorregalesAndy Borregales
+Andy Borregales
+NEK
+	
+TTT
+	
+NYJ
+	
+Thu 7:15 PM
+	
+8.9
+	
+--
+	
+32nd
+	
+31.6
+	
+34.7
+	
++12.9
+	
+14
+	
+72.0
+	
+7.2
+	
+4.0
+Ricky PearsallRicky Pearsall
+Ricky PearsallQ
+SFWR
+	
+WWT
+	
+@Ari
+	
+Sun 3:05 PM
+	
+8.8
+	
+--
+	
+18th
+	
+1.5
+	
+64.7
+	
+-0.8
+	
+74
+	
+52.3
+	
+13.1
+	
+--
+Calvin RidleyCalvin Ridley
+Calvin RidleyQ
+TenWR
+	
+WWT
+	
+Hou
+	
+Sun 12:00 PM
+	
+8.7
+	
+--
+	
+2nd
+	
+4.8
+	
+52.8
+	
+-1.2
+	
+81
+	
+45.0
+	
+7.5
+	
+--
+Nick ChubbNick Chubb
+Nick Chubb
+HouRB
+	
+IIT
+	
+@Ten
+	
+Sun 12:00 PM
+	
+8.7
+	
+--
+	
+28th
+	
+12.4
+	
+54.8
+	
+-1.3
+	
+41
+	
+69.1
+	
+7.7
+	
+6.2
+Cameron DickerCameron Dicker
+Cameron Dicker
+LACK
+	
+WWT
+	
+@Jax
+	
+Sun 12:00 PM
+	
+8.7
+	
+--
+	
+3rd
+	
+96.1
+	
+98.6
+	
+-0.1
+	
+1
+	
+102.0
+	
+10.2
+	
+13.0
+Jacory Croskey-MerrittJacory Croskey-Merritt
+Jacory Croskey-Merritt
+WshRB
+	
+FA
+	
+@Mia
+	
+Sun 8:30 AM
+	
+8.5
+	
+--
+	
+27th
+	
+19.0
+	
+73.8
+	
+-2.9
+	
+31
+	
+81.3
+	
+8.1
+	
+3.0
+T.J. HockensonT.J. Hockenson
+T.J. Hockenson
+MinTE
+	
+FA
+	
+Chi
+	
+Sun 12:00 PM
+	
+8.5
+	
+--
+	
+22nd
+	
+47.1
+	
+80.0
+	
+-1.9
+	
+23
+	
+67.1
+	
+7.5
+	
+2.8
+Zach CharbonnetZach Charbonnet
+Zach Charbonnet
+SeaRB
+	
+RRT
+	
+@LAR
+	
+Sun 3:05 PM
+	
+8.5
+	
+--
+	
+1st
+	
+17.1
+	
+69.2
+	
+-0.3
+	
+33
+	
+80.0
+	
+10.0
+	
+14.3
+Harrison MevisHarrison Mevis
+Harrison Mevis
+LARK
+	
+FA
+	
+Sea
+	
+Sun 3:05 PM
+	
+8.5
+	
+--
+	
+6th
+	
+5.6
+	
+6.2
+	
++2.2
+	
+39
+	
+6.0
+	
+6.0
+	
+6.0
+Jake ElliottJake Elliott
+Jake Elliott
+PhiK
+	
+IIT
+	
+Det
+	
+Sun 7:20 PM
+	
+8.4
+	
+--
+	
+6th
+	
+41.8
+	
+57.0
+	
++0.1
+	
+28
+	
+56.0
+	
+6.2
+	
+4.0
+David NjokuDavid Njoku
+David Njoku
+CleTE
+	
+KDT
+	
+Bal
+	
+Sun 3:25 PM
+	
+8.4
+	
+--
+	
+16th
+	
+30.4
+	
+66.4
+	
+-0.3
+	
+20
+	
+75.1
+	
+9.4
+	
+10.1
+Mason TaylorMason Taylor
+Mason Taylor
+NYJTE
+	
+FA
+	
+@NE
+	
+Thu 7:15 PM
+	
+8.4
+	
+--
+	
+23rd
+	
+3.6
+	
+12.7
+	
+-0.3
+	
+26
+	
+62.6
+	
+7.0
+	
+1.4
+Jake BatesJake Bates
+Jake Bates
+DetK
+	
+RRT
+	
+@Phi
+	
+Sun 7:20 PM
+	
+8.4
+	
+--
+	
+31st
+	
+80.0
+	
+90.7
+	
++0.1
+	
+13
+	
+73.0
+	
+8.1
+	
+13.0
+Isaiah LikelyIsaiah Likely
+Isaiah LikelyQ
+BalTE
+	
+FA
+	
+@Cle
+	
+Sun 3:25 PM
+	
+8.4
+	
+--
+	
+14th
+	
+2.5
+	
+6.4
+	
++0.5
+	
+59
+	
+20.3
+	
+3.4
+	
+3.7
+Eddy PineiroEddy Pineiro
+Eddy Pineiro
+SFK
+	
+JST
+	
+@Ari
+	
+Sun 3:05 PM
+	
+8.4
+	
+--
+	
+20th
+	
+59.5
+	
+63.2
+	
+-2.2
+	
+6
+	
+90.0
+	
+10.0
+	
+2.0
+Matt PraterMatt Prater
+Matt Prater
+BufK
+	
+MO
+	
+TB
+	
+Sun 12:00 PM
+	
+8.3
+	
+--
+	
+13th
+	
+53.8
+	
+65.5
+	
+-7.6
+	
+18
+	
+67.0
+	
+7.4
+	
+Player
+	
+type
+	
+action
+	
+opp
+	
+STATUS
+	
+proj
+	
+SCORE
+	
+OPRK
+	
+%ST
+	
+%ROST
+	
++/-
+	
+PRK
+	
+FPTS
+	
+avg
+	
+LAST
+Jonnu SmithJonnu Smith
+Jonnu Smith
+PitTE
+	
+FA
+	
+Cin
+	
+Sun 12:00 PM
+	
+8.3
+	
+--
+	
+32nd
+	
+5.6
+	
+16.5
+	
++0.2
+	
+31
+	
+55.3
+	
+6.1
+	
+1.4
+Jordan MasonJordan Mason
+Jordan Mason
+MinRB
+	
+WWT
+	
+Chi
+	
+Sun 12:00 PM
+	
+8.3
+	
+--
+	
+20th
+	
+12.2
+	
+66.2
+	
+-3.3
+	
+30
+	
+82.8
+	
+9.2
+	
+4.1
+Riley PattersonRiley Patterson
+Riley Patterson
+MiaK
+	
+FA
+	
+Wsh
+	
+Sun 8:30 AM
+	
+8.3
+	
+--
+	
+22nd
+	
+1.8
+	
+2.1
+	
++1.5
+	
+16
+	
+70.0
+	
+7.0
+	
+7.0
+Cairo SantosCairo Santos
+Cairo Santos
+ChiK
+	
+FA
+	
+@Min
+	
+Sun 12:00 PM
+	
+8.3
+	
+--
+	
+10th
+	
+48.0
+	
+54.9
+	
+-2.9
+	
+24
+	
+61.0
+	
+8.7
+	
+6.0
+Chase McLaughlinChase McLaughlin
+Chase McLaughlin
+TBK
+	
+KDT
+	
+@Buf
+	
+Sun 12:00 PM
+	
+8.2
+	
+--
+	
+9th
+	
+57.5
+	
+80.4
+	
+-1.3
+	
+7
+	
+88.0
+	
+9.8
+	
+5.0
+Ka'imi FairbairnKa'imi Fairbairn
+Ka'imi FairbairnQ
+HouK
+	
+AAT
+	
+@Ten
+	
+Sun 12:00 PM
+	
+8.2
+	
+--
+	
+14th
+	
+14.6
+	
+29.1
+	
++1.2
+	
+4
+	
+92.0
+	
+11.5
+	
+--
+Jayden HigginsJayden Higgins
+Jayden Higgins
+HouWR
+	
+IIT
+	
+@Ten
+	
+Sun 12:00 PM
+	
+8.2
+	
+--
+	
+23rd
+	
+2.0
+	
+18.6
+	
++1.5
+	
+67
+	
+57.1
+	
+6.3
+	
+15.2
+Chris Rodriguez Jr.Chris Rodriguez Jr.
+Chris Rodriguez Jr.
+WshRB
+	
+FA
+	
+@Mia
+	
+Sun 8:30 AM
+	
+8.1
+	
+--
+	
+27th
+	
+0.8
+	
+3.3
+	
++0.9
+	
+56
+	
+38.0
+	
+4.8
+	
+7.6
+Jason MyersJason Myers
+Jason Myers
+SeaK
+	
+KTT
+	
+@LAR
+	
+Sun 3:05 PM
+	
+8.1
+	
+--
+	
+15th
+	
+49.8
+	
+58.3
+	
+-0.1
+	
+3
+	
+93.0
+	
+10.3
+	
+15.0
+Brandon McManusBrandon McManus
+Brandon McManus
+GBK
+	
+FA
+	
+@NYG
+	
+Sun 12:00 PM
+	
+8.1
+	
+--
+	
+29th
+	
+12.0
+	
+15.6
+	
+-0.8
+	
+30
+	
+48.0
+	
+6.9
+	
+0.0
+Evan EngramEvan Engram
+Evan Engram
+DenTE
+	
+AAT
+	
+KC
+	
+Sun 3:25 PM
+	
+8.1
+	
+--
+	
+7th
+	
+20.7
+	
+48.9
+	
+-1.2
+	
+28
+	
+57.4
+	
+6.4
+	
+3.2
+Harrison ButkerHarrison Butker
+Harrison Butker
+KCK
+	
+FA
+	
+@Den
+	
+Sun 3:25 PM
+	
+8.1
+	
+--
+	
+30th
+	
+30.8
+	
+55.4
+	
++1.6
+	
+16
+	
+70.0
+	
+7.8
+	
+--
+Chad RylandChad Ryland
+Chad Ryland
+AriK
+	
+FA
+	
+SF
+	
+Sun 3:05 PM
+	
+8.1
+	
+--
+	
+5th
+	
+3.6
+	
+4.8
+	
+-0.6
+	
+11
+	
+74.0
+	
+8.2
+	
+2.0
+Tyler LoopTyler Loop
+Tyler Loop
+BalK
+	
+WA (Thu)
+	
+@Cle
+	
+Sun 3:25 PM
+	
+8.0
+	
+--
+	
+15th
+	
+49.5
+	
+58.5
+	
+-0.8
+	
+10
+	
+77.0
+	
+8.6
+	
+13.0
+Michael MayerMichael Mayer
+Michael Mayer
+LVTE
+	
+FA
+	
+Dal
+	
+Mon 7:15 PM
+	
+8.0
+	
+--
+	
+17th
+	
+1.0
+	
+4.8
+	
+0
+	
+37
+	
+39.5
+	
+5.6
+	
+5.2
+Elic AyomanorElic Ayomanor
+Elic Ayomanor
+TenWR
+	
+FA
+	
+Hou
+	
+Sun 12:00 PM
+	
+8.0
+	
+--
+	
+2nd
+	
+1.1
+	
+14.6
+	
+-0.8
+	
+51
+	
+70.3
+	
+7.8
+	
+--
+Will ReichardWill Reichard
+Will Reichard
+MinK
+	
+FA
+	
+Chi
+	
+Sun 12:00 PM
+	
+8.0
+	
+--
+	
+10th
+	
+20.4
+	
+24.0
+	
+-0.5
+	
+8
+	
+85.0
+	
+9.4
+	
+9.0
+Evan McPhersonEvan McPherson
+Evan McPherson
+CinK
+	
+FA
+	
+@Pit
+	
+Sun 12:00 PM
+	
+8.0
+	
+--
+	
+23rd
+	
+4.8
+	
+9.6
+	
++1.2
+	
+20
+	
+66.0
+	
+7.3
+	
+--
+Jalen NailorJalen Nailor
+Jalen Nailor
+MinWR
+	
+FA
+	
+Chi
+	
+Sun 12:00 PM
+	
+7.9
+	
+--
+	
+30th
+	
+0.5
+	
+2.2
+	
++1.6
+	
+59
+	
+64.7
+	
+7.2
+	
+23.4
+Zane GonzalezZane Gonzalez
+Zane Gonzalez
+AtlK
+	
+FA
+	
+Car
+	
+Sun 12:00 PM
+	
+7.9
+	
+--
+	
+12th
+	
+0.4
+	
+0.4
+	
+0
+	
+39
+	
+6.0
+	
+6.0
+	
+6.0
+Tyler LockettTyler Lockett
+Tyler Lockett
+LVWR
+	
+FA
+	
+Dal
+	
+Mon 7:15 PM
+	
+7.8
+	
+--
+	
+31st
+	
+0.6
+	
+3.1
+	
++1.1
+	
+99
+	
+32.4
+	
+3.6
+	
+9.4
+Cam LittleCam Little
+Cam Little
+JaxK
+	
+IIT
+	
+LAC
+	
+Sun 12:00 PM
+	
+7.8
+	
+--
+	
+18th
+	
+18.3
+	
+23.7
+	
++3
+	
+11
+	
+74.0
+	
+8.2
+	
+13.0
+Matthew GoldenMatthew Golden
+Matthew GoldenQ
+GBWR
+	
+RRT
+	
+@NYG
+	
+Sun 12:00 PM
+	
+7.8
+	
+--
+	
+26th
+	
+5.9
+	
+57.1
+	
+-2.3
+	
+72
+	
+53.7
+	
+6.7
+	
+--
+Packers D/STPackers D/ST
+Packers D/ST
+GBD/ST
+	
+IIT
+	
+@NYG
+	
+Sun 12:00 PM
+	
+7.7
+	
+--
+	
+22nd
+	
+59.4
+	
+72.3
+	
++12.3
+	
+22
+	
+52.0
+	
+5.8
+	
+7.0
+Matt GayMatt Gay
+Matt Gay
+WshK
+	
+FA
+	
+@Mia
+	
+Sun 8:30 AM
+	
+7.7
+	
+--
+	
+27th
+	
+20.5
+	
+25.4
+	
+-0.3
+	
+21
+	
+63.0
+	
+7.0
+	
+5.0
+Texans D/STTexans D/ST
+Texans D/ST
+HouD/ST
+	
+JST
+	
+@Ten
+	
+Sun 12:00 PM
+	
+7.7
+	
+--
+	
+32nd
+	
+83.4
+	
+92.2
+	
++5.7
+	
+2
+	
+94.0
+	
+10.4
+	
+16.0
+Wil LutzWil Lutz
+Wil Lutz
+DenK
+	
+FA
+	
+KC
+	
+Sun 3:25 PM
+	
+7.7
+	
+--
+	
+2nd
+	
+27.4
+	
+32.2
+	
+-3
+	
+23
+	
+62.0
+	
+6.2
+	
+3.0
+AJ BarnerAJ Barner
+AJ Barner
+SeaTE
+	
+FA
+	
+@LAR
+	
+Sun 3:05 PM
+	
+7.7
+	
+--
+	
+11th
+	
+2.8
+	
+9.5
+	
+-0.7
+	
+19
+	
+75.6
+	
+8.4
+	
+0.3
+Jakobi MeyersJakobi Meyers
+Jakobi Meyers
+JaxWR
+	
+RRT
+	
+LAC
+	
+Sun 12:00 PM
+	
+7.7
+	
+--
+	
+6th
+	
+11.3
+	
+71.0
+	
+-1.6
+	
+48
+	
+75.3
+	
+9.4
+	
+7.1
+Nick Westbrook-IkhineNick Westbrook-Ikhine
+Nick Westbrook-Ikhine
+MiaWR
+	
+FA
+	
+Wsh
+	
+Sun 8:30 AM
+	
+7.7
+	
+--
+	
+27th
+	
+0.3
+	
+1.3
+	
+0
+	
+121
+	
+19.9
+	
+2.0
+	
+1.7
+Younghoe KooYounghoe Koo
+Younghoe Koo
+NYGK
+	
+FA
+	
+GB
+	
+Sun 12:00 PM
+	
+7.6
+	
+--
+	
+15th
+	
+0.6
+	
+1.0
+	
+-0.1
+	
+36
+	
+16.0
+	
+8.0
+	
+8.0
+Nick FolkNick Folk
+Nick Folk
+NYJK
+	
+FA
+	
+@NE
+	
+Thu 7:15 PM
+	
+7.6
+	
+--
+	
+8th
+	
+4.9
+	
+9.4
+	
+-0.2
+	
+9
+	
+84.0
+	
+9.3
+	
+9.0
+DeMario DouglasDeMario Douglas
+DeMario Douglas
+NEWR
+	
+FA
+	
+NYJ
+	
+Thu 7:15 PM
+	
+7.6
+	
+--
+	
+10th
+	
+2.7
+	
+10.5
+	
+-1.7
+	
+53
+	
+68.3
+	
+6.8
+	
+5.4
+Sterling ShepardSterling Shepard
+Sterling Shepard
+TBWR
+	
+FA
+	
+@Buf
+	
+Sun 12:00 PM
+	
+7.5
+	
+--
+	
+11th
+	
+1.0
+	
+6.5
+	
+-0.3
+	
+59
+	
+64.7
+	
+7.2
+	
+6.1
+Daniel CarlsonDaniel Carlson
+Daniel Carlson
+LVK
+	
+FA
+	
+Dal
+	
+Mon 7:15 PM
+	
+7.5
+	
+--
+	
+21st
+	
+1.1
+	
+1.8
+	
+0
+	
+29
+	
+51.0
+	
+5.7
+	
+0.0
+Rashod BatemanRashod Bateman
+Rashod BatemanQ
+BalWR
+	
+FA
+	
+@Cle
+	
+Sun 3:25 PM
+	
+7.4
+	
+--
+	
+20th
+	
+2.6
+	
+13.4
+	
+-0.5
+	
+79
+	
+49.4
+	
+5.5
+	
+4.0
+Ryan FitzgeraldRyan Fitzgerald
+Ryan Fitzgerald
+CarK
+	
+FA
+	
+@Atl
+	
+Sun 12:00 PM
+	
+7.4
+	
+--
+	
+23rd
+	
+4.4
+	
+5.5
+	
+-0.8
+	
+21
+	
+63.0
+	
+6.3
+	
+0.0
+Andre SzmytAndre Szmyt
+Andre Szmyt
+CleK
+	
+FA
+	
+Bal
+	
+Sun 3:25 PM
+	
+7.4
+	
+--
+	
+26th
+	
+0.2
+	
+0.3
+	
+0
+	
+26
+	
+53.0
+	
+5.9
+	
+9.0
+Olamide ZaccheausOlamide Zaccheaus
+Olamide Zaccheaus
+ChiWR
+	
+FA
+	
+@Min
+	
+Sun 12:00 PM
+	
+7.4
+	
+--
+	
+8th
+	
+1.6
+	
+5.4
+	
+-1.6
+	
+57
+	
+65.3
+	
+7.3
+	
+1.5
+Patriots D/STPatriots D/ST
+Patriots D/ST
+NED/ST
+	
+IIT
+	
+NYJ
+	
+Thu 7:15 PM
+	
+7.3
+	
+--
+	
+26th
+	
+75.0
+	
+84.8
+	
++14.6
+	
+4
+	
+79.0
+	
+7.9
+	
+1.0
+Isaiah DavisIsaiah Davis
+Isaiah Davis
+NYJRB
+	
+FA
+	
+@NE
+	
+Thu 7:15 PM
+	
+7.3
+	
+--
+	
+4th
+	
+1.5
+	
+9.0
+	
+-2.2
+	
+54
+	
+40.7
+	
+4.5
+	
+2.1
+Brenton StrangeBrenton Strange
+Brenton StrangeIR
+JaxTE
+	
+FA
+	
+LAC
+	
+Sun 12:00 PM
+	
+7.3
+	
+--
+	
+6th
+	
+0.7
+	
+10.3
+	
++0.8
+	
+36
+	
+40.4
+	
+8.1
+	
+--
+Chargers D/STChargers D/ST
+Chargers D/ST
+LACD/ST
+	
+TTT
+	
+@Jax
+	
+Sun 12:00 PM
+	
+7.2
+	
+--
+	
+12th
+	
+55.9
+	
+64.2
+	
++16.8
+	
+9
+	
+69.0
+	
+6.9
+	
+16.0
+Jaylin LaneJaylin Lane
+Jaylin Lane
+WshWR
+	
+FA
+	
+@Mia
+	
+Sun 8:30 AM
+	
+7.1
+	
+--
+	
+1st
+	
+0.7
+	
+1.5
+	
+-0.2
+	
+87
+	
+40.9
+	
+4.1
+	
+5.1
+Pat FreiermuthPat Freiermuth
+Pat Freiermuth
+PitTE
+	
+FA
+	
+Cin
+	
+Sun 12:00 PM
+	
+7.0
+	
+--
+	
+32nd
+	
+2.8
+	
+7.2
+	
++1
+	
+24
+	
+66.0
+	
+7.3
+	
+6.3
+Dawson KnoxDawson Knox
+Dawson Knox
+BufTE
+	
+FA
+	
+TB
+	
+Sun 12:00 PM
+	
+7.0
+	
+--
+	
+15th
+	
+1.1
+	
+2.1
+	
++1.3
+	
+44
+	
+33.5
+	
+3.7
+	
+6.7
+Marvin Mims Jr.Marvin Mims Jr.
+Marvin Mims Jr.Q
+DenWR
+	
+FA
+	
+KC
+	
+Sun 3:25 PM
+	
+6.9
+	
+--
+	
+5th
+	
+0.9
+	
+15.1
+	
+-0.6
+	
+65
+	
+60.8
+	
+7.6
+	
+--
+Roman WilsonRoman Wilson
+Roman Wilson
+PitWR
+	
+FA
+	
+Cin
+	
+Sun 12:00 PM
+	
+6.9
+	
+--
+	
+13th
+	
+0.1
+	
+0.4
+	
+0
+	
+93
+	
+35.9
+	
+4.0
+	
+11.5
+Chimere DikeChimere Dike
+Chimere Dike
+TenWR
+	
+FA
+	
+Hou
+	
+Sun 12:00 PM
+	
+6.9
+	
+--
+	
+2nd
+	
+1.3
+	
+12.2
+	
+-1.7
+	
+71
+	
+54.1
+	
+6.0
+	
+--
+Joey SlyeJoey Slye
+Joey Slye
+TenK
+	
+FA
+	
+Hou
+	
+Sun 12:00 PM
+	
+6.9
+	
+--
+	
+1st
+	
+0.3
+	
+0.9
+	
+0
+	
+14
+	
+72.0
+	
+9.0
+	
+Player
+	
+type
+	
+action
+	
+opp
+	
+STATUS
+	
+proj
+	
+SCORE
+	
+OPRK
+	
+%ST
+	
+%ROST
+	
++/-
+	
+PRK
+	
+FPTS
+	
+avg
+	
+LAST
+Tyler AllgeierTyler Allgeier
+Tyler Allgeier
+AtlRB
+	
+FA
+	
+Car
+	
+Sun 12:00 PM
+	
+6.9
+	
+--
+	
+18th
+	
+4.3
+	
+31.5
+	
++3.7
+	
+40
+	
+70.0
+	
+7.8
+	
+17.7
+Luke MusgraveLuke Musgrave
+Luke Musgrave
+GBTE
+	
+FA
+	
+@NYG
+	
+Sun 12:00 PM
+	
+6.7
+	
+--
+	
+13th
+	
+5.7
+	
+14.0
+	
+-2.3
+	
+62
+	
+23.1
+	
+2.6
+	
+5.3
+Cedric TillmanCedric Tillman
+Cedric TillmanQ
+CleWR
+	
+FA
+	
+Bal
+	
+Sun 3:25 PM
+	
+6.7
+	
+--
+	
+28th
+	
+0.5
+	
+12.9
+	
+-0.9
+	
+91
+	
+36.7
+	
+7.3
+	
+3.1
+Kyle WilliamsKyle Williams
+Kyle Williams
+NEWR
+	
+FA
+	
+NYJ
+	
+Thu 7:15 PM
+	
+6.7
+	
+--
+	
+10th
+	
+0.1
+	
+1.3
+	
++0.1
+	
+123
+	
+18.0
+	
+1.8
+	
+14.2
+Colston LovelandColston Loveland
+Colston Loveland
+ChiTE
+	
+TTT
+	
+@Min
+	
+Sun 12:00 PM
+	
+6.6
+	
+--
+	
+21st
+	
+15.5
+	
+40.0
+	
+-1.4
+	
+27
+	
+61.9
+	
+7.7
+	
+9.5
+Cowboys D/STCowboys D/ST
+Cowboys D/ST
+DalD/ST
+	
+FA
+	
+@LV
+	
+Mon 7:15 PM
+	
+6.6
+	
+--
+	
+28th
+	
+18.5
+	
+22.3
+	
++18.2
+	
+29
+	
+22.0
+	
+2.4
+	
+--
+Samaje PerineSamaje Perine
+Samaje PerineQ
+CinRB
+	
+FA
+	
+@Pit
+	
+Sun 12:00 PM
+	
+6.5
+	
+--
+	
+8th
+	
+0.5
+	
+8.0
+	
+-0.8
+	
+61
+	
+33.8
+	
+3.8
+	
+--
+Christian KirkChristian Kirk
+Christian Kirk
+HouWR
+	
+FA
+	
+@Ten
+	
+Sun 12:00 PM
+	
+6.5
+	
+--
+	
+23rd
+	
+2.2
+	
+13.1
+	
+-1
+	
+107
+	
+28.8
+	
+5.8
+	
+1.3
+Chig OkonkwoChig Okonkwo
+Chig OkonkwoQ
+TenTE
+	
+FA
+	
+Hou
+	
+Sun 12:00 PM
+	
+6.4
+	
+--
+	
+4th
+	
+0.9
+	
+6.8
+	
+-0.2
+	
+29
+	
+57.1
+	
+6.3
+	
+--
+Andrei IosivasAndrei Iosivas
+Andrei Iosivas
+CinWR
+	
+FA
+	
+@Pit
+	
+Sun 12:00 PM
+	
+6.4
+	
+--
+	
+32nd
+	
+0.1
+	
+0.6
+	
+0
+	
+80
+	
+46.5
+	
+5.2
+	
+--
+Cooper KuppCooper Kupp
+Cooper Kupp
+SeaWR
+	
+FA
+	
+@LAR
+	
+Sun 3:05 PM
+	
+6.3
+	
+--
+	
+19th
+	
+6.1
+	
+58.1
+	
+-1.3
+	
+56
+	
+66.7
+	
+8.3
+	
+9.4
+Ravens D/STRavens D/ST
+Ravens D/ST
+BalD/ST
+	
+RRT
+	
+@Cle
+	
+Sun 3:25 PM
+	
+6.2
+	
+--
+	
+30th
+	
+53.7
+	
+62.9
+	
++12
+	
+28
+	
+23.0
+	
+2.6
+	
+6.0
+Steelers D/STSteelers D/ST
+Steelers D/ST
+PitD/ST
+	
+MO
+	
+Cin
+	
+Sun 12:00 PM
+	
+6.2
+	
+--
+	
+23rd
+	
+47.3
+	
+61.5
+	
++3.2
+	
+20
+	
+49.0
+	
+5.4
+	
+5.0
+Falcons D/STFalcons D/ST
+Falcons D/ST
+AtlD/ST
+	
+KDT
+	
+Car
+	
+Sun 12:00 PM
+	
+6.0
+	
+--
+	
+25th
+	
+24.2
+	
+32.9
+	
++11.8
+	
+10
+	
+63.0
+	
+7.0
+	
+4.0
+Broncos D/STBroncos D/ST
+Broncos D/ST
+DenD/ST
+	
+KTT
+	
+KC
+	
+Sun 3:25 PM
+	
+5.9
+	
+--
+	
+3rd
+	
+84.1
+	
+96.1
+	
+-1.6
+	
+3
+	
+86.0
+	
+8.6
+	
+16.0
+Robbie ChosenRobbie Chosen
+Robbie Chosen
+WshWR
+	
+FA
+	
+@Mia
+	
+Sun 8:30 AM
+	
+5.9
+	
+--
+	
+1st
+	
+0.0
+	
+0.0
+	
+0
+	
+152
+	
+10.3
+	
+5.2
+	
+2.7
+Emanuel WilsonEmanuel Wilson
+Emanuel Wilson
+GBRB
+	
+FA
+	
+@NYG
+	
+Sun 12:00 PM
+	
+5.9
+	
+--
+	
+31st
+	
+1.1
+	
+6.3
+	
+-0.8
+	
+66
+	
+34.0
+	
+3.8
+	
+1.4
+Jaguars D/STJaguars D/ST
+Jaguars D/ST
+JaxD/ST
+	
+FA
+	
+LAC
+	
+Sun 12:00 PM
+	
+5.8
+	
+--
+	
+19th
+	
+29.0
+	
+35.8
+	
+-6
+	
+12
+	
+59.0
+	
+6.6
+	
+8.0
+Blake CorumBlake Corum
+Blake Corum
+LARRB
+	
+FA
+	
+Sea
+	
+Sun 3:05 PM
+	
+5.8
+	
+--
+	
+13th
+	
+1.1
+	
+9.8
+	
++1.3
+	
+52
+	
+42.2
+	
+4.7
+	
+5.6
+Ja'Tavion SandersJa'Tavion Sanders
+Ja'Tavion Sanders
+CarTE
+	
+FA
+	
+@Atl
+	
+Sun 12:00 PM
+	
+5.7
+	
+--
+	
+1st
+	
+0.2
+	
+0.7
+	
+0
+	
+43
+	
+34.8
+	
+5.0
+	
+8.2
+Dontayvion WicksDontayvion Wicks
+Dontayvion WicksQ
+GBWR
+	
+FA
+	
+@NYG
+	
+Sun 12:00 PM
+	
+5.7
+	
+--
+	
+26th
+	
+0.2
+	
+1.4
+	
++0.3
+	
+110
+	
+34.2
+	
+4.9
+	
+7.8
+Jalen CokerJalen Coker
+Jalen Coker
+CarWR
+	
+FA
+	
+@Atl
+	
+Sun 12:00 PM
+	
+5.7
+	
+--
+	
+7th
+	
+0.3
+	
+3.3
+	
+-0.3
+	
+142
+	
+13.6
+	
+3.4
+	
+5.1
+Tyler HigbeeTyler Higbee
+Tyler Higbee
+LARTE
+	
+FA
+	
+Sea
+	
+Sun 3:05 PM
+	
+5.7
+	
+--
+	
+25th
+	
+0.8
+	
+2.3
+	
+0
+	
+32
+	
+47.7
+	
+6.0
+	
+6.3
+Chris MooreChris Moore
+Chris Moore
+WshWR
+	
+FA
+	
+@Mia
+	
+Sun 8:30 AM
+	
+5.7
+	
+--
+	
+1st
+	
+0.3
+	
+1.4
+	
+-0.1
+	
+102
+	
+31.3
+	
+3.5
+	
+0.0
+Tyler JohnsonTyler Johnson
+Tyler Johnson
+NYJWR
+	
+FA
+	
+@NE
+	
+Thu 7:15 PM
+	
+5.7
+	
+--
+	
+12th
+	
+0.0
+	
+0.1
+	
+0
+	
+96
+	
+34.7
+	
+4.3
+	
+0.0
+Bears D/STBears D/ST
+Bears D/ST
+ChiD/ST
+	
+FA
+	
+@Min
+	
+Sun 12:00 PM
+	
+5.7
+	
+--
+	
+31st
+	
+13.4
+	
+17.6
+	
++2.3
+	
+20
+	
+49.0
+	
+5.4
+	
+3.0
+Noah FantNoah Fant
+Noah Fant
+CinTE
+	
+FA
+	
+@Pit
+	
+Sun 12:00 PM
+	
+5.6
+	
+--
+	
+30th
+	
+0.5
+	
+3.3
+	
+0
+	
+25
+	
+63.0
+	
+7.9
+	
+--
+Dolphins D/STDolphins D/ST
+Dolphins D/ST
+MiaD/ST
+	
+FA
+	
+Wsh
+	
+Sun 8:30 AM
+	
+5.6
+	
+--
+	
+20th
+	
+2.8
+	
+3.5
+	
++1.7
+	
+25
+	
+37.0
+	
+3.7
+	
+11.0
+Rams D/STRams D/ST
+Rams D/ST
+LARD/ST
+	
+WA (Thu)
+	
+Sea
+	
+Sun 3:05 PM
+	
+5.5
+	
+--
+	
+9th
+	
+46.9
+	
+63.5
+	
+-4.6
+	
+7
+	
+72.0
+	
+8.0
+	
+5.0
+Lions D/STLions D/ST
+Lions D/ST
+DetD/ST
+	
+WWT
+	
+@Phi
+	
+Sun 7:20 PM
+	
+5.5
+	
+--
+	
+11th
+	
+70.8
+	
+85.1
+	
+-8.6
+	
+5
+	
+75.0
+	
+8.3
+	
+4.0
+Joshua PalmerJoshua Palmer
+Joshua Palmer
+BufWR
+	
+FA
+	
+TB
+	
+Sun 12:00 PM
+	
+5.4
+	
+--
+	
+14th
+	
+0.2
+	
+3.2
+	
+0
+	
+90
+	
+37.4
+	
+6.2
+	
+--
+Greg DulcichGreg Dulcich
+Greg Dulcich
+MiaTE
+	
+FA
+	
+Wsh
+	
+Sun 8:30 AM
+	
+5.3
+	
+--
+	
+27th
+	
+0.1
+	
+0.1
+	
+0
+	
+71
+	
+13.1
+	
+4.4
+	
+3.2
+49ers D/ST49ers D/ST
+49ers D/ST
+SFD/ST
+	
+FA
+	
+@Ari
+	
+Sun 3:05 PM
+	
+5.3
+	
+--
+	
+24th
+	
+9.2
+	
+14.1
+	
++1
+	
+27
+	
+27.0
+	
+2.7
+	
+-5.0
+Chuba HubbardChuba Hubbard
+Chuba Hubbard
+CarRB
+	
+WWT
+	
+@Atl
+	
+Sun 12:00 PM
+	
+5.2
+	
+--
+	
+24th
+	
+21.5
+	
+77.6
+	
+-3.1
+	
+35
+	
+77.2
+	
+9.7
+	
+2.5
+Chiefs D/STChiefs D/ST
+Chiefs D/ST
+KCD/ST
+	
+FA
+	
+@Den
+	
+Sun 3:25 PM
+	
+5.2
+	
+--
+	
+7th
+	
+10.2
+	
+27.1
+	
++0.7
+	
+13
+	
+58.0
+	
+6.4
+	
+--
+Cardinals D/STCardinals D/ST
+Cardinals D/ST
+AriD/ST
+	
+FA
+	
+SF
+	
+Sun 3:05 PM
+	
+5.1
+	
+--
+	
+16th
+	
+4.8
+	
+7.8
+	
+0
+	
+19
+	
+50.0
+	
+5.6
+	
+5.0
+Jeremy McNicholsJeremy McNichols
+Jeremy McNichols
+WshRB
+	
+FA
+	
+@Mia
+	
+Sun 8:30 AM
+	
+5.1
+	
+--
+	
+27th
+	
+0.8
+	
+3.4
+	
+-0.2
+	
+47
+	
+49.1
+	
+4.9
+	
+3.9
+Xavier WeaverXavier Weaver
+Xavier WeaverQ
+AriWR
+	
+FA
+	
+SF
+	
+Sun 3:05 PM
+	
+5.0
+	
+--
+	
+22nd
+	
+0.0
+	
+0.0
+	
+0
+	
+188
+	
+0.0
+	
+0.0
+	
+--
+Arian SmithArian Smith
+Arian Smith
+NYJWR
+	
+FA
+	
+@NE
+	
+Thu 7:15 PM
+	
+4.8
+	
+--
+	
+12th
+	
+0.0
+	
+0.1
+	
+0
+	
+150
+	
+11.0
+	
+1.2
+	
+1.3
+Allen LazardAllen Lazard
+Allen Lazard
+NYJWR
+	
+FA
+	
+@NE
+	
+Thu 7:15 PM
+	
+4.8
+	
+--
+	
+12th
+	
+0.1
+	
+0.3
+	
+0
+	
+125
+	
+17.5
+	
+2.9
+	
+--
+Bhayshul TutenBhayshul Tuten
+Bhayshul Tuten
+JaxRB
+	
+FA
+	
+LAC
+	
+Sun 12:00 PM
+	
+4.8
+	
+--
+	
+16th
+	
+1.4
+	
+19.1
+	
+-0.7
+	
+48
+	
+48.5
+	
+5.4
+	
+2.0
+Dylan SampsonDylan Sampson
+Dylan Sampson
+CleRB
+	
+FA
+	
+Bal
+	
+Sun 3:25 PM
+	
+4.7
+	
+--
+	
+29th
+	
+0.9
+	
+8.9
+	
+-0.8
+	
+49
+	
+45.3
+	
+5.0
+	
+0.9
+Brashard SmithBrashard Smith
+Brashard Smith
+KCRB
+	
+FA
+	
+@Den
+	
+Sun 3:25 PM
+	
+4.7
+	
+--
+	
+5th
+	
+0.4
+	
+6.0
+	
+-0.9
+	
+60
+	
+34.4
+	
+3.8
+	
+--
+Elijah HigginsElijah Higgins
+Elijah Higgins
+AriTE
+	
+FA
+	
+SF
+	
+Sun 3:05 PM
+	
+4.7
+	
+--
+	
+9th
+	
+0.0
+	
+0.1
+	
+0
+	
+49
+	
+29.1
+	
+3.2
+	
+3.9
+Xavier LegetteXavier Legette
+Xavier Legette
+CarWR
+	
+FA
+	
+@Atl
+	
+Sun 12:00 PM
+	
+4.7
+	
+--
+	
+7th
+	
+2.1
+	
+22.2
+	
+-0.8
+	
+77
+	
+50.1
+	
+6.3
+	
+0.0
+Tre' HarrisTre' Harris
+Tre' Harris
+LACWR
+	
+FA
+	
+@Jax
+	
+Sun 12:00 PM
+	
+4.7
+	
+--
+	
+21st
+	
+0.3
+	
+3.2
+	
+0
+	
+98
+	
+33.5
+	
+3.4
+	
+2.4
+Brian Robinson Jr.Brian Robinson Jr.
+Brian Robinson Jr.
+SFRB
+	
+FA
+	
+@Ari
+	
+Sun 3:05 PM
+	
+4.7
+	
+--
+	
+14th
+	
+2.0
+	
+22.1
+	
++0.9
+	
+51
+	
+43.3
+	
+4.3
+	
+11.5
+Browns D/STBrowns D/ST
+Browns D/ST
+CleD/ST
+	
+WA (Thu)
+	
+Bal
+	
+Sun 3:25 PM
+	
+4.6
+	
+--
+	
+14th
+	
+33.3
+	
+50.8
+	
+-16.9
+	
+8
+	
+71.0
+	
+7.9
+	
+8.0
+Darnell WashingtonDarnell Washington
+Darnell Washington
+PitTE
+	
+FA
+	
+Cin
+	
+Sun 12:00 PM
+	
+4.6
+	
+--
+	
+32nd
+	
+0.1
+	
+0.5
+	
+0
+	
+41
+	
+36.2
+	
+4.0
+	
+2.5
+Justice HillJustice Hill
+Justice HillQ
+BalRB
+	
+FA
+	
+@Cle
+	
+Sun 3:25 PM
+	
+4.6
+	
+--
+	
+2nd
+	
+2.5
+	
+15.2
+	
+-0.8
+	
+43
+	
+65.2
+	
+7.2
